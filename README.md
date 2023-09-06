@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BandiRamNiteeshReddy
-- 👀 I’m interested in Development web applicatiom
+- 👀 I’m interested in Development web application
 - 🌱 I’m currently learning in Git Hub
 - 💞️ I’m looking to collaborate on Git learnings
 - 📫 How to reach me @_.ram_niteesh.31._ in Instagram
